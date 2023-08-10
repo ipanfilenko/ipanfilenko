@@ -2,11 +2,12 @@
 
 I’m professional software engineer with over 15 years of experience in the full software development lifecycle. Keen on architecture, scalability and optimization of big applications and have a high motivation for professional growth in these spheres. Interested in creating highly readable and easily maintainable source code covered by unit tests.
 
-### My statistics
+### GitHub Analytics
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ipanfilenko&theme=transparent&card_width=500)](https://git.io/streak-stats)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipanfilenko&layout=compact)
 
 <!--
 **ipanfilenko/ipanfilenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
