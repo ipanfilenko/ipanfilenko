@@ -1,5 +1,6 @@
--  I’m professional software engineer with over 15 years of experience in the full software development lifecycle. Keen on architecture, scalability and optimization of big applications and have a high motivation for professional growth in these spheres. Interested in creating highly readable and easily maintainable source code covered by unit tests.
+### About me
 
+I’m professional software engineer with over 15 years of experience in the full software development lifecycle. Keen on architecture, scalability and optimization of big applications and have a high motivation for professional growth in these spheres. Interested in creating highly readable and easily maintainable source code covered by unit tests.
 
 ### My statistics
 
